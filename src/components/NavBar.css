@@ -1,0 +1,30 @@
+.navbar-logo{
+    width: 150px;
+  }
+
+  .bell, .coin, .profile {
+    margin-right: 30px; /* Adjust the value to change the space between images */
+    width: 40px;
+    height: 40px;
+  }
+
+
+.navbar {
+    padding: 0.5rem 1rem;
+  }
+  
+  .navbar-brand {
+    font-size: 1.2rem;
+  }
+  
+  .navbar-nav {
+    flex-direction: row;
+  }
+  
+  .nav-item {
+    margin: 0 0.5rem;
+  }
+  
+  .nav-link {
+    padding: 0.25rem 0.5rem;
+  }
